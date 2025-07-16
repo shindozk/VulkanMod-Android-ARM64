@@ -1,6 +1,6 @@
 # VulkanMod for Android ARM64
 
-Credits: RKMC_GAMERZ
+Credits: RKMC_GAMERZ, xCollateral
 
 This repository contains a Vulkan-based renderer mod for Minecraft: Java Edition, specifically optimized for ARM64 devices running Android. This mod aims to significantly improve performance and graphical fidelity by leveraging the modern Vulkan graphics API. It is designed to be used with popular custom launchers such as FoldCraft Launcher, Zalith Launcher, and PojavLauncher.
 Features
