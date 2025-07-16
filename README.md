@@ -1,4 +1,4 @@
-VulkanMod for Android ARM64
+# VulkanMod for Android ARM64
 
 Credits: RKMC_GAMERZ
 
@@ -42,8 +42,10 @@ To compile this mod from its source code, you will need:
  * Git.
 <!-- end list -->
 # Clone the repository
+```
 git clone [https://github.com/shindozk/VulkanMod-Android-ARM64]
 cd [repository-folder]
+```
 
 # Build the project (example using Gradle)
 ./gradlew build
