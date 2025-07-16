@@ -23,7 +23,7 @@ Prerequisites
  * A legal copy of Minecraft: Java Edition.
  * The Fabric mod loader installed for your desired Minecraft version within the launcher.
 General Instructions
- * Download the Mod: Grab the latest release of the VulkanMod for ARM64 from the Releases page.
+ * Download the Mod: Grab the latest release of the VulkanMod for ARM64 from the [Releases](https://github.com/shindozk/VulkanMod-Android-ARM64/releases) page.
  * Locate the 'mods' Folder: Open your launcher and navigate to the mods folder for your Fabric installation.
  * Install the Mod: Place the downloaded .jar file into the mods folder.
 Launcher-Specific Instructions
@@ -48,7 +48,7 @@ cd [repository-folder]
 ```
 
 # Build the project (example using Gradle)
-./gradlew build
+`./gradlew build`
 
 The compiled .jar file will be located in the build/libs directory.
 Contributing
