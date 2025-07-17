@@ -1,0 +1,48 @@
+{
+  "vulkanmod.options.unknown": "Inconnu",
+
+  "vulkanmod.options.pages.video": "Vidéo",
+  "vulkanmod.options.pages.graphics": "Graphismes",
+  "vulkanmod.options.pages.optimizations": "Optimisations",
+  "vulkanmod.options.pages.other": "Autre",
+
+  "vulkanmod.options.buttons.apply": "Appliquer",
+  "vulkanmod.options.buttons.kofi": "Soutenez-moi",
+
+  "vulkanmod.options.advCulling": "Advanced Chunk Culling",
+  "vulkanmod.options.advCulling.aggressive": "Agressif",
+  "vulkanmod.options.advCulling.conservative": "Conservateur",
+  "vulkanmod.options.advCulling.normal": "Normal",
+  "vulkanmod.options.advCulling.tooltip": "Utilise un algorithme de culling qui peut améliorer les performances en réduisant le nombre de sections de chunk non visibles rendues.",
+
+  "vulkanmod.options.ao.subBlock": "ON (Sous-bloc)",
+  "vulkanmod.options.ao.subBlock.tooltip": "ON (Sous-bloc): Active l'éclairage doux pour les blocs non complets (expérimental).",
+
+  "vulkanmod.options.deviceSelector": "Sélecteur de périphérique",
+  "vulkanmod.options.deviceSelector.auto": "Automatique",
+  "vulkanmod.options.deviceSelector.tooltip": "Périphérique actuel",
+
+  "vulkanmod.options.entityCulling": "Entity Culling",
+  "vulkanmod.options.entityCulling.tooltip": "Active le culling pour les entités dans les sections non visibles.",
+
+  "vulkanmod.options.frameQueue": "Taille de la file d'attente de rendu",
+  "vulkanmod.options.frameQueue.tooltip": "Des valeurs plus élevées peuvent aider à stabiliser le frametime, mais augmenteront le décalage d'entrée.",
+
+  "vulkanmod.options.backfaceCulling": "Backface Culling",
+  "vulkanmod.options.backfaceCulling.tooltip": "Supprime les faces de bloc non visibles sur le processeur, améliorant les performances du processeur graphique. Pour éviter une surcharge accrue du processeur, activez Indirect Draw.",
+
+  "vulkanmod.options.indirectDraw": "Indirect Draw",
+  "vulkanmod.options.indirectDraw.tooltip": "Réduit la surcharge du processeur, mais peut augmenter la surcharge du processeur graphique.",
+
+  "vulkanmod.options.refreshRate": "Taux de Rafraîchissement",
+
+  "vulkanmod.options.uniqueOpaqueLayer": "Couche opaque unique",
+  "vulkanmod.options.uniqueOpaqueLayer.tooltip": "Utilise une seule couche de rendu pour le terrain opaque afin d'améliorer les performances.",
+
+  "vulkanmod.options.windowMode": "Mode Fenêtre",
+  "vulkanmod.options.windowMode.windowed": "Fenêtré",
+  "vulkanmod.options.windowMode.windowedFullscreen": "Plein Écran Fenêtré",
+
+  "vulkanmod.options.builderThreads": "Threads du Constructeur de Chunks",
+  "vulkanmod.options.builderThreads.auto": "Automatique"
+}

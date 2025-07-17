@@ -1,0 +1,48 @@
+{
+  "vulkanmod.options.unknown": "Unbekannt",
+
+  "vulkanmod.options.pages.video": "Video",
+  "vulkanmod.options.pages.graphics": "Grafik",
+  "vulkanmod.options.pages.optimizations": "Optimierungen",
+  "vulkanmod.options.pages.other": "Andere",
+
+  "vulkanmod.options.buttons.apply": "Anwenden",
+  "vulkanmod.options.buttons.kofi": "Unterstütze mich",
+
+  "vulkanmod.options.advCulling": "Advanced Chunk Culling",
+  "vulkanmod.options.advCulling.aggressive": "Aggressiv",
+  "vulkanmod.options.advCulling.conservative": "Konservativ",
+  "vulkanmod.options.advCulling.normal": "Normal",
+  "vulkanmod.options.advCulling.tooltip": "Verwendet einen Culling-Algorithmus, der die Leistung verbessern kann, indem die Anzahl der nicht sichtbaren gerenderten Chunk-Abschnitte reduziert wird.",
+
+  "vulkanmod.options.ao.subBlock": "AN (Unterblock)",
+  "vulkanmod.options.ao.subBlock.tooltip": "AN (Unterblock): Aktiviert die weiche Beleuchtung für nicht vollständige Blöcke (experimentell).",
+
+  "vulkanmod.options.deviceSelector": "Geräteauswahl",
+  "vulkanmod.options.deviceSelector.auto": "Automatisch",
+  "vulkanmod.options.deviceSelector.tooltip": "Aktuelles Gerät",
+
+  "vulkanmod.options.entityCulling": "Entity Culling",
+  "vulkanmod.options.entityCulling.tooltip": "Aktiviert das Culling für Entitäten in nicht sichtbaren Abschnitten.",
+
+  "vulkanmod.options.frameQueue": "Render-Warteschlangengröße",
+  "vulkanmod.options.frameQueue.tooltip": "Höhere Werte können helfen, die Frametime zu stabilisieren, erhöhen aber die Eingabeverzögerung.",
+
+  "vulkanmod.options.backfaceCulling": "Backface Culling",
+  "vulkanmod.options.backfaceCulling.tooltip": "Entfernt nicht sichtbare Blockflächen auf der CPU und verbessert die GPU-Leistung. Um eine erhöhte CPU-Auslastung zu vermeiden, aktivieren Sie Indirect Draw.",
+
+  "vulkanmod.options.indirectDraw": "Indirect Draw",
+  "vulkanmod.options.indirectDraw.tooltip": "Reduziert die CPU-Auslastung, kann aber die GPU-Auslastung erhöhen.",
+
+  "vulkanmod.options.refreshRate": "Aktualisierungsrate",
+
+  "vulkanmod.options.uniqueOpaqueLayer": "Einzigartige undurchsichtige Schicht",
+  "vulkanmod.options.uniqueOpaqueLayer.tooltip": "Verwendet eine einzige Render-Schicht für undurchsichtiges Gelände, um die Leistung zu verbessern.",
+
+  "vulkanmod.options.windowMode": "Fenstermodus",
+  "vulkanmod.options.windowMode.windowed": "Fenster",
+  "vulkanmod.options.windowMode.windowedFullscreen": "Fenster im Vollbildmodus",
+
+  "vulkanmod.options.builderThreads": "Chunk-Builder-Threads",
+  "vulkanmod.options.builderThreads.auto": "Automatisch"
+}
